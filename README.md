@@ -24,7 +24,7 @@ Esta é uma API para gerenciar tarefas (em inglês todos), em que é permitida a
 - [x] Marcar uma todo como `done`.
 - [x] Excluir uma todo.
 
-## :computer: Descrição:
+## :computer: Middlewares:
 Além disso, dessa vez teremos um plano grátis onde o usuário só pode criar até dez todos e um plano Pro que irá permitir criar todos ilimitados, isso tudo usando middlewares para fazer as validações necessárias.
 
 ## :link: Rotas:
